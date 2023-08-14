@@ -1,0 +1,13 @@
+/Users/d.hall/Documents/playground/fsharp/project-euler/EulerSolutions/obj/Debug/net7.0/EulerSolutions.fsproj.AssemblyReference.cache
+/Users/d.hall/Documents/playground/fsharp/project-euler/EulerSolutions/obj/Debug/net7.0/EulerSolutions.AssemblyInfoInputs.cache
+/Users/d.hall/Documents/playground/fsharp/project-euler/EulerSolutions/obj/Debug/net7.0/EulerSolutions.AssemblyInfo.fs
+/Users/d.hall/Documents/playground/fsharp/project-euler/EulerSolutions/obj/Debug/net7.0/EulerSolutions.fsproj.CoreCompileInputs.cache
+/Users/d.hall/Documents/playground/fsharp/project-euler/EulerSolutions/bin/Debug/net7.0/EulerSolutions.deps.json
+/Users/d.hall/Documents/playground/fsharp/project-euler/EulerSolutions/bin/Debug/net7.0/EulerSolutions.dll
+/Users/d.hall/Documents/playground/fsharp/project-euler/EulerSolutions/bin/Debug/net7.0/EulerSolutions.pdb
+/Users/d.hall/Documents/playground/fsharp/project-euler/EulerSolutions/bin/Debug/net7.0/EulerSolutions.xml
+/Users/d.hall/Documents/playground/fsharp/project-euler/EulerSolutions/obj/Debug/net7.0/EulerSolutions.dll
+/Users/d.hall/Documents/playground/fsharp/project-euler/EulerSolutions/obj/Debug/net7.0/refint/EulerSolutions.dll
+/Users/d.hall/Documents/playground/fsharp/project-euler/EulerSolutions/obj/Debug/net7.0/EulerSolutions.xml
+/Users/d.hall/Documents/playground/fsharp/project-euler/EulerSolutions/obj/Debug/net7.0/EulerSolutions.pdb
+/Users/d.hall/Documents/playground/fsharp/project-euler/EulerSolutions/obj/Debug/net7.0/ref/EulerSolutions.dll
